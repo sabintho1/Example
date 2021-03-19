@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Sample Threat",
+    "owner": "Tom",
+    "description": "Some sample Web App"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Testing",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
